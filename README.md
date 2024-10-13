@@ -29,4 +29,4 @@ Para utilizar los cuadernos de Jupyter, asegúrate de tener instalada la bibliot
 
 ## Licencia
 
-Este repositorio se encuentra bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
+Este proyecto no tiene una licencia formal. Puedes utilizarlo para fines personales o educativos, pero se agradece la atribución adecuada.
